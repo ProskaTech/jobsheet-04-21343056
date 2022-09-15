@@ -1,5 +1,5 @@
-## Object-oriented Programming (Lab Work) Template Guides
-1. Silakan anda upload file java hasil praktikum anda menggunakan NetBeans atau IDE/text editor lainnya dengan mengupload button ADD FILE
-2. Upload juga screenshot hasil latihan dan tugas anda dalam format .JPG atau .JPEG atau .PNG
-3. Setiap file java anda diharuskan untuk memiliki identitas anda dengan menggunakan komentar dengan format berikut "Created by NIM_Nama Lengkap" pada bagian paling atas setiap code anda. contoh: // Created by 1203232_Randi Proska Sandra
-4. Silakan anda edit file README.md ini dengan identitas anda juga serta berikan penjelasan terkait source code yang anda upload. Catatan: Jangan ubah nama file README.md
+## === Praktikum Pemrograman Berorientasi Objek (Pertemuan ke-4)===
+
+// Created by 21343056_Muhammad Asyrof
+
+Pada pembelajaran Praktikum Pemrograman Berorientasi Objek di pertemuan ke-4 ini mempelajari mengenai cara mendeskripsikan dan pengaplikasian Java Operators menggunakan Bahasa pemrograman Java dengan IDE. Adapun pada penyelesaian case pertama untuk mencari nilai rata-rata dengan hasil nilai yang di tentukan sebelumnya yaitu dengan cara menambah beberapa nilai pada variable yang telah di inputkan sebelumnya, lalu pada hasil rata-rata nilai tersebut di lakukan dengan cara membagi dengan angka tiga dari hasil penjumlahan pada nilai yang telah jumlah sebelumnya. Selanjutnya pada penyelasaian case ke-2 dengan case mencari nilai, pada case ini saya membuat varible max bertipe data integer yang isi dari variable tersebut adalah nilai dari tiap varible dan menggunakan cara kondisi, pada tiap langkah nya dengan cara membandingkan tiap variable yang satu dengan yang variable lainnya untuk mecari nilai terbesar. 
